@@ -4,5 +4,5 @@ spring:
 
 app:
    env:
-      name: account-prod3
+      name: account-prod
       
